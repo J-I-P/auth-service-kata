@@ -54,10 +54,12 @@ Implement POST /login with the following requirements:
 
 ---
 
-> [!IMPORTANT]
-> Do NOT implement extra features.
-> Do NOT over-engineer.
-> Prefer clarity and correctness over completeness.
+### IMPORTANT
+- Do NOT implement extra features.
+- Do NOT over-engineer.
+- Prefer clarity and correctness over completeness.
+
+If something is ambiguous, ask questions or keep the design minimal.
 
 ---
 
